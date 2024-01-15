@@ -23,7 +23,7 @@ To test the written program icludes the following test cases
 
 ## Test Results
 After running dune runtest in the respectcive folder will get the following result:
-![Test Suite Results](https://github.com/IIITM-Jay/filterListJavaScript/blob/main/filterListJavascript.png)
+![Test Suite Results](https://github.com/IIITM-Jay/filterListJavaScript/blob/master/filterListJavascript.png)
 
 
 
