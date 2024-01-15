@@ -22,7 +22,7 @@ To test the written program icludes the following test cases
    3. Empty list
 
 ## Test Results
-After running dune runtest in the respectcive folder will get the following result:
+After running the test file in the respectcive folder will get the following result:
 ![Test Suite Results](https://github.com/IIITM-Jay/filterListJavaScript/blob/master/filterListJavascript.png)
 
 
